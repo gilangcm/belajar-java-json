@@ -1,0 +1,15 @@
+{
+  "id": "1",
+  "name": "gils",
+  "hobbies": [
+    "gaming",
+    "cooking"
+  ],
+  "address": {
+    "street": "jalan belum jadi",
+    "city": "bandung",
+    "country": "indonesia"
+  }
+}
+
+
